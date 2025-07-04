@@ -4,7 +4,14 @@
         "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/benfica_60x60.png",
         "jogador-nome": "Di María",
         "jogador-posicao": "Meio-campo",
-        "jogador-gols": "3"
+        "jogador-gols": "4"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/07/01/photo_140x140_DlUepMJ.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
+        "jogador-nome": "Marcos Leonardo",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "4"
     },
     {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/06/14/photo_140x140_jGREsGd.png",
@@ -63,13 +70,6 @@
         "jogador-gols": "3"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/26/photo_140x140_xb0UQfy.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/05/21/65-_0001_Monterrey.png",
-        "jogador-nome": "Berterame",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "3"
-    },
-    {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/05/24/photo_140x140_5NmmVn0.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
         "jogador-nome": "Haaland",
@@ -84,9 +84,9 @@
         "jogador-gols": "3"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/07/01/photo_140x140_DlUepMJ.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
-        "jogador-nome": "Marcos Leonardo",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/26/photo_140x140_xb0UQfy.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/05/21/65-_0001_Monterrey.png",
+        "jogador-nome": "Berterame",
         "jogador-posicao": "Atacante",
         "jogador-gols": "3"
     },
@@ -217,6 +217,13 @@
         "jogador-gols": "2"
     },
     {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_uDqYRBp.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+        "jogador-nome": "Hércules",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "2"
+    },
+    {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/10/06/photo_140x140.png",
         "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
         "jogador-nome": "João Neves",
@@ -340,13 +347,6 @@
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
         "jogador-nome": "Rúben Neves",
         "jogador-posicao": "Volante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/22/photo_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2016/11/22/Mamelodi_Sundowns_65.png",
-        "jogador-nome": "Mothiba",
-        "jogador-posicao": "Atacante",
         "jogador-gols": "1"
     }
 ]
