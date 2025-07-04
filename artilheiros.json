@@ -4,7 +4,7 @@
         "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/benfica_60x60.png",
         "jogador-nome": "Di María",
         "jogador-posicao": "Meio-campo",
-        "jogador-gols": "3"
+        "jogador-gols": "4"
     },
     {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/06/14/photo_140x140_jGREsGd.png",
@@ -21,6 +21,62 @@
         "jogador-gols": "3"
     },
     {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/09/20/photo_140x140_jMHBZGo.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
+        "jogador-nome": "Pedro Neto",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/20/photo_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/real_madrid_60x60.png",
+        "jogador-nome": "Gonzalo García",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/04/18/photo_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
+        "jogador-nome": "Foden",
+        "jogador-posicao": "Meio-campo",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/30/photo_140x140_Fgk6EsU.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/borussia_dortmund_60x60.png",
+        "jogador-nome": "Guirassy",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/05/26/photo_140x140_4QOmkY6.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/27/Juventus-65.png",
+        "jogador-nome": "Yildiz",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/18/photo_140x140_IzYJlla.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
+        "jogador-nome": "Harry Kane",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/26/photo_140x140_xb0UQfy.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/05/21/65-_0001_Monterrey.png",
+        "jogador-nome": "Berterame",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/05/24/photo_140x140_5NmmVn0.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
+        "jogador-nome": "Haaland",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "3"
+    },
+    {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/10/30/photo_140x140.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2021/02/05/Al-Alhy-65.png",
         "jogador-nome": "Abou Ali",
@@ -28,23 +84,30 @@
         "jogador-gols": "3"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/05/26/photo_140x140_4QOmkY6.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/09/Juventus-65x65.png",
-        "jogador-nome": "Yildiz",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/07/01/photo_140x140_DlUepMJ.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
+        "jogador-nome": "Marcos Leonardo",
         "jogador-posicao": "Atacante",
         "jogador-gols": "3"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/02/13/photo_140x140_O7hm6mS.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-        "jogador-nome": "Wallace Yan",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/06/16/28253cab7d34ea7f3b427dbc19d05911_140x140.jpeg",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
+        "jogador-nome": "Thomas Müller",
+        "jogador-posicao": "Meio-campo",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2019/03/13/e3906271f3caccb8796dc63477b6a451_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
+        "jogador-nome": "Coman",
         "jogador-posicao": "Atacante",
         "jogador-gols": "2"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2020/06/13/7f7d74c23caddf25e45fc48416ddc6d7_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2021/03/31/65_Inter_de_Milão_2021.png",
-        "jogador-nome": "Lautaro Martínez",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/07/01/photo_140x140_S7rJBYi.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+        "jogador-nome": "Igor Jesus",
         "jogador-posicao": "Atacante",
         "jogador-gols": "2"
     },
@@ -56,72 +119,9 @@
         "jogador-gols": "2"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/09/20/photo_140x140_jMHBZGo.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
-        "jogador-nome": "Pedro Neto",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/19/photo_140x140_32bhB9D.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/09/Juventus-65x65.png",
-        "jogador-nome": "Francisco Conceição",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/04/photo_140x140_HrMMF79.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-        "jogador-nome": "Igor Jesus",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/11/01/photo_140x140_yB5pM4u.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/09/Juventus-65x65.png",
-        "jogador-nome": "Kolo Muani",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/21/photo_140x140_mdGU7kp.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/03/12/65_Atlético-de-Madrid.png",
-        "jogador-nome": "Pablo Barrios",
-        "jogador-posicao": "Volante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/11/08/photo_140x140_CMF690g.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/benfica_60x60.png",
-        "jogador-nome": "Barreiro",
-        "jogador-posicao": "Volante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2019/03/13/e3906271f3caccb8796dc63477b6a451_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
-        "jogador-nome": "Coman",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/06/16/d3caa06e6ab71dd6e89297d1c6214fee_140x140.jpeg",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/17/photo_140x140_RV8s1Vj.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
-        "jogador-nome": "Gündogan",
-        "jogador-posicao": "Volante",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/06/16/28253cab7d34ea7f3b427dbc19d05911_140x140.jpeg",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
-        "jogador-nome": "Thomas Müller",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "2"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/24/photo_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2015/10/22/porto-65.png",
-        "jogador-nome": "Samu Aghehowa",
+        "jogador-nome": "Doku",
         "jogador-posicao": "Atacante",
         "jogador-gols": "2"
     },
@@ -133,220 +133,220 @@
         "jogador-gols": "2"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/19/photo_140x140_k7bYPzd.png",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/19/photo_140x140_32bhB9D.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/27/Juventus-65.png",
+        "jogador-nome": "Francisco Conceição",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/11/01/photo_140x140_yB5pM4u.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/27/Juventus-65.png",
+        "jogador-nome": "Kolo Muani",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2020/06/12/36800ba52bc001ba140b102bdaa35a84_140x140.jpeg",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/real_madrid_60x60.png",
+        "jogador-nome": "Valverde",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/21/photo_140x140_mdGU7kp.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/26/atletico_madrid-65.png",
+        "jogador-nome": "Pablo Barrios",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/24/photo_140x140.png",
         "jogador-escudo": "https://s.sde.globo.com/media/teams/2015/10/22/porto-65.png",
-        "jogador-nome": "Pepê",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/12/27/photo_140x140_TtnwZOk.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/07/25/inter-miami-65x65-62396.png",
-        "jogador-nome": "Allende",
+        "jogador-nome": "Samu Aghehowa",
         "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
+        "jogador-gols": "2"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/06/10/photo_140x140_YiLwI0g.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/07/25/inter-miami-65x65-62396.png",
-        "jogador-nome": "Luis Suárez",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/02/13/photo_140x140_O7hm6mS.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+        "jogador-nome": "Wallace Yan",
         "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/06/17/91604e7d84cf2123b0ba31e6246671fb_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/03/12/65_Atlético-de-Madrid.png",
-        "jogador-nome": "Witsel",
-        "jogador-posicao": "Zagueiro direito",
-        "jogador-gols": "1"
+        "jogador-gols": "2"
     },
     {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_pPieudk.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
         "jogador-nome": "Paulinho",
         "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
+        "jogador-gols": "2"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_E09Bazm.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-        "jogador-nome": "Maurício",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/11/08/photo_140x140_CMF690g.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/benfica_60x60.png",
+        "jogador-nome": "Barreiro",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "2"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_140x140_AYjDvnL.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
-        "jogador-nome": "Kvaratskhelia",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2020/06/13/7f7d74c23caddf25e45fc48416ddc6d7_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2021/03/31/65_Inter_de_Milão_2021.png",
+        "jogador-nome": "Lautaro Martínez",
         "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2021/11/02/964cc6ee3a4ab781055e5739aa7b4fcb_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/27/Juventus-65.png",
+        "jogador-nome": "Vlahovic",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "2"
     },
     {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/06/15/a10fdcc6062c4d752d6ae12ceaeeda47_140x140.jpeg",
         "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
         "jogador-nome": "Hakimi",
         "jogador-posicao": "Lateral-direito",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/06/16/d3caa06e6ab71dd6e89297d1c6214fee_140x140.jpeg",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
+        "jogador-nome": "Gündogan",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/10/06/photo_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
+        "jogador-nome": "João Neves",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "2"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/21/photo_140x140_2r7C3XN.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
+        "jogador-nome": "Boey",
+        "jogador-posicao": "Lateral-direito",
         "jogador-gols": "1"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/04/18/photo_140x140_xzVzF2Z.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/03/12/65_Atlético-de-Madrid.png",
-        "jogador-nome": "Griezmann",
-        "jogador-posicao": "Atacante",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/11/23/photo_140x140_UxvFDPo.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
+        "jogador-nome": "Lee Kang-In",
+        "jogador-posicao": "Meio-campo",
         "jogador-gols": "1"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2019/04/16/2144ecb394516ea16dcf9b465a1bdefe_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/07/25/inter-miami-65x65-62396.png",
-        "jogador-nome": "Messi",
-        "jogador-posicao": "Atacante",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/16/photo_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
+        "jogador-nome": "Mayulu",
+        "jogador-posicao": "Volante",
         "jogador-gols": "1"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/20/photo_140x140_cHO7zlI.png",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/03/23/photo_140x140_zJom8if.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
+        "jogador-nome": "Vitinha",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/05/07/photo_140x140_PQwheVe.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/paris_saint_germain_60x60.png",
+        "jogador-nome": "Fabián Ruiz",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/11/20/photo_140x140_pK0Rvsy.png",
         "jogador-escudo": "https://s.sde.globo.com/media/teams/2024/12/05/seatle-sounders-73848.png",
-        "jogador-nome": "Rusnák",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/27/photo_140x140_XsV49YC.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
-        "jogador-nome": "Echeverri",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/05/24/photo_140x140_5NmmVn0.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
-        "jogador-nome": "Haaland",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/17/photo_140x140_YX6Ram3.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
-        "jogador-nome": "Oscar Bobb",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2021/09/08/260063b12ec634a365191197384003d3_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
-        "jogador-nome": "Cherki",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_9Hfi5NF.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-        "jogador-nome": "Nonato",
+        "jogador-nome": "Cristian Roldán",
         "jogador-posicao": "Volante",
         "jogador-gols": "1"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/19/photo_140x140_vawYmGD.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/09/20/Salzburg-65.png",
-        "jogador-nome": "Onisiwo",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2017/12/06/7ba44ab2beeef58c7f1b66f012e69469_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
-        "jogador-nome": "Adarabioyo",
-        "jogador-posicao": "Zagueiro direito",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/09/04/photo_140x140_Ne5lQ0r.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
-        "jogador-nome": "Delap",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/25/photo_140x140_iBfh42t.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
-        "jogador-nome": "Tyrique George",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/25/photo_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/08/15/los-angeles-fc-65x65-63030.png",
-        "jogador-nome": "Bouanga",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/25/photo_140x140_L8aiEQk.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2025/06/09/65x65.png",
-        "jogador-nome": "Gray",
-        "jogador-posicao": "Zagueiro direito",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/09/06/photo_140x140_rGgPe9L.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/benfica_60x60.png",
-        "jogador-nome": "Schjelderup",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_Q9Bbbmj.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-        "jogador-nome": "Arias",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/22/photo_140x140_VMIqULh.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/12/05/gde.png",
-        "jogador-nome": "Um Won-Sang",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/22/photo_140x140_ShwyKYf.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/12/05/gde.png",
-        "jogador-nome": "Lee Jin-Hyun",
-        "jogador-posicao": "Meio-campo",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/25/photo_140x140_QzgM2Mf.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2021/02/05/Al-Alhy-65.png",
-        "jogador-nome": "Ben Romdhane",
-        "jogador-posicao": "Volante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_qDTa126.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-        "jogador-nome": "Keno",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/01/photo_140x140_8DBxVTH.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-        "jogador-nome": "Freytes",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/04/photo_140x140_JrfRE0I.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+        "jogador-nome": "Jair",
         "jogador-posicao": "Zagueiro esquerdo",
         "jogador-gols": "1"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/18/photo_140x140_IzYJlla.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
-        "jogador-nome": "Harry Kane",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2022/09/15/photo_140x140_Z333c70.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
+        "jogador-nome": "Enzo Fernández",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_140x140_dC0SxZr.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+        "jogador-nome": "Luiz Araújo",
         "jogador-posicao": "Atacante",
         "jogador-gols": "1"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/07/photo_140x140_GPIGdWU.png",
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/03/20/photo_140x140_WjGzWQm.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-        "jogador-nome": "Danilo",
+        "jogador-nome": "Arrascaeta",
+        "jogador-posicao": "Meio-campo",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/15/photo_140x140_U6by2XY.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/10/14/River-65x65.png",
+        "jogador-nome": "Meza",
+        "jogador-posicao": "Meio-campo",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/19/photo_140x140_0ciwySx.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/08/14/Urawa-Red-Diamonds65.png",
+        "jogador-nome": "Matsuo",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/15/photo_140x140_u54l5ms.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/10/14/River-65x65.png",
+        "jogador-nome": "Driussi",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/04/15/photo_140x140_0koPjYL.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2024/10/14/River-65x65.png",
+        "jogador-nome": "Colidio",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/19/photo_140x140_y9HI7X0.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/benfica_60x60.png",
+        "jogador-nome": "Otamendi",
         "jogador-posicao": "Zagueiro direito",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/19/photo_140x140_sDOTb2o.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/03/12/Boca65.png",
+        "jogador-nome": "Battaglia",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/09/03/f49173e7b9366a13af0ecd133cb9ca23_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
+        "jogador-nome": "Rúben Neves",
+        "jogador-posicao": "Volante",
+        "jogador-gols": "1"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/22/photo_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2016/11/22/Mamelodi_Sundowns_65.png",
+        "jogador-nome": "Mothiba",
+        "jogador-posicao": "Atacante",
         "jogador-gols": "1"
     }
 ]
