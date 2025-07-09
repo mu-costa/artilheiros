@@ -7,6 +7,20 @@
         "jogador-gols": "4"
     },
     {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/20/photo_140x140.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/real_madrid_60x60.png",
+        "jogador-nome": "Gonzalo García",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "4"
+    },
+    {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/30/photo_140x140_Fgk6EsU.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/borussia_dortmund_60x60.png",
+        "jogador-nome": "Guirassy",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "4"
+    },
+    {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/07/01/photo_140x140_DlUepMJ.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
         "jogador-nome": "Marcos Leonardo",
@@ -35,24 +49,10 @@
         "jogador-gols": "3"
     },
     {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/20/photo_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/real_madrid_60x60.png",
-        "jogador-nome": "Gonzalo García",
-        "jogador-posicao": "Atacante",
-        "jogador-gols": "3"
-    },
-    {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2024/04/18/photo_140x140.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/11/ManchesterCity-65.png",
         "jogador-nome": "Foden",
         "jogador-posicao": "Meio-campo",
-        "jogador-gols": "3"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/08/30/photo_140x140_Fgk6EsU.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/borussia_dortmund_60x60.png",
-        "jogador-nome": "Guirassy",
-        "jogador-posicao": "Atacante",
         "jogador-gols": "3"
     },
     {
@@ -231,6 +231,13 @@
         "jogador-gols": "2"
     },
     {
+        "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/07/09/photo_140x140_867VOnR.png",
+        "jogador-escudo": "https://s.sde.globo.com/media/teams/2013/09/16/chelsea_60x60.png",
+        "jogador-nome": "João Pedro",
+        "jogador-posicao": "Atacante",
+        "jogador-gols": "2"
+    },
+    {
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2023/09/21/photo_140x140_2r7C3XN.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2017/09/22/Bayer-Munique-65.png",
         "jogador-nome": "Boey",
@@ -339,13 +346,6 @@
         "jogador-foto": "https://s.sde.globo.com/media/person_role/2025/06/19/photo_140x140_sDOTb2o.png",
         "jogador-escudo": "https://s.sde.globo.com/media/organizations/2018/03/12/Boca65.png",
         "jogador-nome": "Battaglia",
-        "jogador-posicao": "Volante",
-        "jogador-gols": "1"
-    },
-    {
-        "jogador-foto": "https://s.sde.globo.com/media/person_role/2018/09/03/f49173e7b9366a13af0ecd133cb9ca23_140x140.png",
-        "jogador-escudo": "https://s.sde.globo.com/media/organizations/2023/02/07/Al_Hilal-65.png",
-        "jogador-nome": "Rúben Neves",
         "jogador-posicao": "Volante",
         "jogador-gols": "1"
     }
